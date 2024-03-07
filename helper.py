@@ -16,23 +16,24 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from streamlit_chat import message
 
 # Load environment variables and auto-reload on change
-load_dotenv()
-env_vars = dotenv_values()
-langchain_api_key=env_vars["LANGCHAIN_API_KEY"]
+# load_dotenv()
+# env_vars = dotenv_values()
+# langchain_api_key=env_vars["LANGCHAIN_API_KEY"]
 
-os.environ["LANGCHAIN_API_KEY"] = langchain_api_key
-os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
-os.environ["LANGCHAIN_PROJECT"] = "10.STB-6000_chat"
+# os.environ["LANGCHAIN_API_KEY"] = langchain_api_key
+# os.environ["LANGCHAIN_TRACING_V2"] = "true"
+# os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
+# os.environ["LANGCHAIN_PROJECT"] = "10.STB-6000_chat"
 
 print("------- load embedding started------")
-embedding = HuggingFaceBgeEmbeddings(model_name="C:/Users/arasu/Workspace/Projects/GenAI/embeddings/hkunlp_instructor-large/")
+# embedding = HuggingFaceBgeEmbeddings(model_name="C:/Users/arasu/Workspace/Projects/GenAI/embeddings/hkunlp_instructor-large/")
+embedding = HuggingFaceBgeEmbeddings(model_name="hkunlp/instructor-large")
 vector_db = Chroma(persist_directory="text_vector_db",embedding_function=embedding)
 print("------- load embedding completed------")
 print("------- load model started------")
 # Create LLM model
-model = "C:/Users/arasu/Workspace/Projects/GenAI/models/MBZUAILaMini-Flan-T5-248M/"
-# model = "MBZUAI/LaMini-T5-738M"
+# model = "C:/Users/arasu/Workspace/Projects/GenAI/models/MBZUAILaMini-Flan-T5-248M/"
+model = "MBZUAI/LaMini-T5-738M"
 tokenizer = T5Tokenizer.from_pretrained(model,truncation=True)
 base_model = T5ForConditionalGeneration.from_pretrained(model)
 pipe = pipeline(
