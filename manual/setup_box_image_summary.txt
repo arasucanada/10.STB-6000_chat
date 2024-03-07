@@ -1,0 +1,153 @@
+This is the  information a SET TOP BOX labeled as “LASER STB-6000”. The front panel features a single USB Socket, while the rear panel contains several ports, including Antenna In (RF IN), Antenna Loop Through (RF OUT), HDMI Output, Video Output, and two Audio Left/Right outputs. The layout of the rear panel is compact, with all ports aligned horizontally.
+
+The remote control features various buttons, each serving a specific purpose:
+MUTE: Located at the top, this button silences the audio.
+FAVOURITES: Below the MUTE button, it provides quick access to favorite channels.
+SUBTITLES: Activates or deactivates subtitles for the content.this button is placed in the top-left part of the remote.
+NUMERIC KEYS: These buttons allow users to directly input channel numbers.
+MENU: Opens the main menu for navigation.this button is placed in the center-left part of the remote
+OK BUTTON: Positioned in the center of the arrow keys, it confirms selections.
+EPG (Electronic Program Guide): Accesses the program guide for scheduling and information.this button is placed below the left arrow.
+PAGE UP/DOWN: Allows users to scroll through pages or lists.
+VOLUME UP/DOWN: Adjusts the audio volume.this button is placed in the bottom-left section of the remote.
+REWIND / FAST FORWARD: Controls media playback speed.
+PREVIOUS / NEXT PLAYLISTS: Navigates playlists or content.
+PAUSE: Pauses media playback.
+TIMESIFT: Activates the timeshift feature.
+ZOOM: Zooms in or out on content.
+ASPECT: Adjusts the aspect ratio of the display.
+POWER ON/OFF: Turns the device on or off.
+TELETEXT (WHERE AVAILABLE): Accesses teletext features if supported.
+INFORMATION: Displays information about the current content or channel.
+RECALL: Returns to the previous channel or setting.
+EXIT: Exits the current menu or screen.
+DIRECTION (FOR CURSOR): Navigational arrows for moving the cursor.
+GOTO: Jumps to specific content or channels.
+CHANNEL UP/DOWN: Changes channels.
+LANGUAGE: Switches language settings.
+STOP: Stops media playback.
+REPEAT: Repeats media content.
+TV / RADIO (SWITCH MODE): Toggles between TV and radio modes.
+TIMER: Sets a timer for content playback.
+V-FORMAT RESOLUTION: Adjusts video format resolution.
+NOTE: To use the Remote Control, point it towards the front of the Digital Set Top Box. The Remote
+Control has a range of up to 7 metres from the Set Top Box at an angle of up to 30 degrees.
+NOTE: Some features on this remote rely on the feature being available during the
+broadcast. Button may not respond if function is not available.
+
+Press the MENU button to access the main system menu.
+Use the LEFT and RIGHT buttons to scroll across and select the desired Menu Section.
+Press OK or the DOWN button to access the chosen section.
+Confirm any selection or changes by pressing OK or use EXIT to return to the previous screen.
+To close the menu and return to the TV screen, press the MENU button.
+Program Edit:
+To edit program preferences (such as lock, skip, favorite, move, or delete), enter the Program Edit Menu.
+The password for access is “000000” (six zeros).
+Specific actions and their corresponding buttons:
+MOVE (RED): Select a channel to move, use UP/DOWN buttons to adjust its position, then press OK to confirm.
+SKIP (GREEN): Press GREEN to skip a channel; press again to stop skipping.
+LOCK (YELLOW): Use UP/DOWN buttons to select channels to lock/unlock. Locked channels require a password for access.
+DELETE (BLUE): Press BLUE to delete a channel; press EXIT to cancel.
+FAVORITE (FAV): Use UP/DOWN buttons to select channels to add/remove from favorites. Press FAV to save changes
+
+Electronic Program Guide (EPG) & Scheduling.
+EPG Overview:
+The EPG is an on-screen TV guide that displays scheduled programs up to seven days in advance for every tuned channel.
+To access the EPG, users can press the EPG button on the remote control.
+Navigation and Program Selection:
+Use the LEFT and RIGHT buttons to change channels.
+Scroll through the EPG using the UP and DOWN buttons.
+Highlight the program you’re interested in.
+Program details appear on the right side of the screen.
+If additional information pages are available, use the YELLOW or BLUE buttons to switch between them.
+Setting Reminders or Recording:
+Once you find a program of interest, you can:
+Set a reminder to view it.
+Record it if you won’t be available to watch.
+Press the OK button to schedule the program.
+For example, if you want to schedule a program on channel 10 that starts at 9:00 PM and ends at 10:00 PM on February 28th, and you want to record it only once, you would use the following selections and options:
+Channel type: TV
+Channel no: 10
+Channel name: Default
+Start date: 02/28/24
+Start time: 21:00
+End time: 22:00
+Repeat: ONCE
+Mode: RECORD
+
+Main Menu:
+This section outlines actions related to bookings. Here are some examples:
+ADD: Press the RED button to manually add a booking.
+EDIT: Press the GREEN button to modify an existing booking.
+DELETE: Press the BLUE button to remove a booking.
+EXIT: Use the EXIT button to return to the Electronic Program Guide (EPG) screen.
+Sort Options:
+Users can organize channels using different criteria:
+LCN: Sort channels in ascending order.
+ONID: Sort channels based on ONID (Original Network ID).
+SERVICE NAME: Alphabetically sort channels by name.
+SERVICE ID: Sort channels by their unique service ID.
+Picture settings from a television or display system interface. Let’s break down the details:
+Menu Structure:
+The menu is divided into three columns: SELECTION, OPTIONS, and DESCRIPTION.
+Each column serves a specific purpose:
+SELECTION: Lists the available settings or options.
+OPTIONS: Displays the choices or configurations for each setting.
+DESCRIPTION: Provides information about what each setting does.
+Options Available:
+ASPECT RATIO:
+16:9 Wide Screen: Set the aspect ratio for widescreen content.
+Auto: Automatically adjust the aspect ratio based on the content.
+4:3 Full & 4:3 Pan & Scan: Set the aspect ratio for standard 4:3 content.
+RESOLUTION:
+[480P]: Suitable for NTSC TV systems.
+[576P]: Suitable for PAL TV systems.
+[720P]: Suitable for both NTSC and PAL TV systems.
+[1080I]: Not recommended for composite output.
+TV FORMAT:
+PAL: Set the color system used by your TV.
+NTSC: Set the color system used by your TV.
+AUTO: Automatically detect the color system.
+VIDEO OUTPUT:
+CVBS: Video output via composite video.
+S-VIDEO: Not used.
+YPbPr: Video output via component video.
+Purpose:
+Use this menu to adjust how the display appears on your TV. You can customize settings such as aspect ratio, resolution, TV format, and video output based on your preferences and the content being displayed.
+
+This the information, specifically for configuring photo and movie settings on a device. It provides options and descriptions for settings like slide time, slide show effects, aspect ratio for photos, and subtitle specifications for movies. In simple terms, it’s instructions on how to change the settings for displaying photos and movies on a device.
+The image contains text in tabular form with columns labeled “SELECTION”, “OPTIONS”, and “DESCRIPTION”. It is divided into three sections: Photo Configure, Movie Configuration, and PVR Configuration.
+Photo Configure: This section lets you adjust how your photos are shown on the device. You can change the following settings:
+Slide Time: This sets how long each photo is displayed on the screen. You can choose from 1 to 8 seconds.
+Slide Show: This sets the type of transition effect between photos. You can choose from 1 to 59 different effects or set it to Random for a mix of effects.
+Aspect Ratio: This affects how the photos fit the screen. You can choose to Keep the original shape of the photo or Discard the edges to fill the screen.
+Movie Configuration: This section lets you adjust the subtitles for your movies. You can change the following settings:
+Subtitle Specific: This sets the size of the subtitles. You can choose from Small, Normal, or Big.
+Subtitle BG: This sets the background color for the subtitles. You can choose from various colors such as Transparent, Gray, etc.
+Subtitle Font Colour: This sets the font color for the subtitles. You can choose from various colors such as White, Black, etc.
+Note: this option requires the presence of subtitle files to be included in the same
+directory as the movie files.
+There is also a note that says you need to have the subtitle files in the same folder as the movie files for this option to work.
+PVR Configuration: This section shows information about the USB device that is connected to the device. It shows the following information:
+Device File System: This shows the type of file system that the USB device uses, such as FAT32, NTFS, etc.
+Total Space: This shows the total amount of storage space on the USB device, such as 16 GB, 32 GB, etc.
+Free Space: This shows the amount of storage space that is available on the USB device, such as 10 GB, 20 GB, etc.
+
+It tells you how to fix some common problems with the device, such as no picture, no sound, or remote control not working. It also tells you some technical details about the device, such as what kind of video and audio formats it supports, what kind of USB drives it can use, and how much power it consumes. Here is a summary:
+Power Requirements: The device may not work with some USB drives that need more power. The USB drive should be formatted in FAT32 or NTFS before recording.
+Troubleshooting: It lists six possible problems and their solutions below
+No Picture: This means that you cannot see anything on your TV screen when you use the device. The possible cause is that the power is not connected or the antenna cable is not connected. The solution is to make sure the unit is turned on and the antenna connection is plugged into the back of the device.
+Screen Shows “No Signal”: This means that the device is not receiving any signal from the antenna or the cable. The possible cause is that the audio cable connections are incorrect. The solution is to check the connections of the audio cables and make sure they are plugged into the right ports.
+No Sound: This means that you cannot hear anything from your TV speakers when you use the device. The possible cause is that the sound is muted. The solution is to un-mute the audio by pressing the mute button on the remote control or the device.
+Remote Control Not Responding: This means that the device does not respond to any commands from the remote control. The possible cause is that the batteries in the remote control are flat. The solution is to replace the batteries with new ones.
+Picture Is breaking up: This means that the image on your TV screen is distorted or pixelated when you use the device. The possible cause is that the signal is too weak. The solution is to check the antenna connection and make sure it is not loose or damaged. You may also need to adjust the position or direction of the antenna to get a better signal.
+USB Device Is not Detected: This means that the device does not recognize the USB drive that you plug into it. The possible cause is that the USB drive is not powered correctly. The solution is to check the power source of the USB drive and make sure it is compatible with the device. You may also need to format the USB drive in FAT32 or NTFS before recording.
+
+below are the Technical Specifications of the STB-6000 setup box:
+for the Tuner the input frequency ranges from 170 to 230MHz and 471 to 860MHz, with an RF input level of -25 to -82DbM. The IF bandwidth is set at 7MHz and 8MHz, supporting QPSK, 16QAM, and 64QAM modulations. Moving on to the video decoder, the format includes MPEG4 AVC/H.264 HP@L4 and MPEG2 MP@ML.HL, with output formats of 576p, 720p, 1080i, and aspect ratios of 4:3 and 16:9. Output ports consist of HDMI (V1.3C), YpBpR, and CVBS. For audio decoding, the formats include MPEG-1 (layer 1&2&3), WMA, and AC3, with audio output available through 2 X RCA (L/R) and COAXIAL SPDIF. The tuner also supports USB 2.0 with a capacity of up to 750GB, and it is compatible with media formats such as MP3, WMA, JPEG, BMP, AVI, and MKV. Power supply requirements are within the range of 100-240VAC at 50/60Hz, with a maximum power consumption of 8W and standby power consumption less than 1W.
+
+
+
+
+
+
